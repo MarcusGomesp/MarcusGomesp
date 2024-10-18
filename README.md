@@ -5,7 +5,7 @@
     
 ![Marcus GitHub stats](https://github-readme-stats.vercel.app/api?username=MarcusGomesp&show_icons=true&theme=dracula)
 
-
+![Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=MarcusGomesp&layout=compact)
 
 ### Tecnologias que eu uso no meu dia
 
@@ -21,7 +21,4 @@ Apaixonado por tecnologias, estou sempre em busca de aprimorar meus conhecimento
 
 ## Último Projetos:
 - [CodeStudy](https://github.com/KauanG-bot/Programming-Students-Article)
-
-
-
 
