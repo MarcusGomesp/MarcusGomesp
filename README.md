@@ -1,6 +1,6 @@
 ### Olá! eu sou Marcus Vinicius 👋
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcus-vinicius-gomes-pereira-226552249?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BZlOmM7iOQXSqdvXOEXmC%2Fg%3D%3D) [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.&logoColor=white)]()
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcus-vinicius-gomes-pereira-226552249?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BZlOmM7iOQXSqdvXOEXmC%2Fg%3D%3D) [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.&logoColor=white)](https://marcusgomes.netlify.app/)
 
     
 ![Marcus GitHub stats](https://github-readme-stats.vercel.app/api?username=MarcusGomesp&show_icons=true&theme=dracula)
