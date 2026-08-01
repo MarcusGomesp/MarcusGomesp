@@ -18,7 +18,7 @@
 
 ### 🚀 Sobre mim
 
-Apaixonado por tecnologia, estou sempre em busca de aprimorar meus conhecimentos e entregar o melhor em desenvolvimento. Atuo como **Analista de Operações Digitais II** na Capgemini e curso o 8º semestre de Ciência da Computação na UNINOVE.
+Apaixonado por tecnologia, estou sempre em busca de aprimorar meus conhecimentos e entregar o melhor em desenvolvimento. Atuo como **Analista de Operações Digitais II** e curso o 8º semestre de Ciência da Computação na UNINOVE.
 
 Gosto de transformar processos manuais em soluções organizadas, práticas e confiáveis — construir sempre foi mais interessante do que apenas planejar.
 
