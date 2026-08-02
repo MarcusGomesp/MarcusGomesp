@@ -55,9 +55,8 @@ Gosto de transformar processos manuais em soluções organizadas, práticas e co
 
 ### 📊 Estatísticas do GitHub
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=MarcusGomesp&show_icons=true&theme=dark&hide_border=true&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarcusGomesp&layout=compact&theme=dark&hide_border=true" />
+<p align="center"><img height="165" src="https://github-stats-extended.vercel.app/api?username=MarcusGomesp&show_icons=true&theme=dark&hide_border=true&count_private=true" />
+   <img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=MarcusGomesp&layout=compact&theme=dark&hide_border=true" />
 </p>
 
 <p align="center">
