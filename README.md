@@ -39,7 +39,7 @@ Gosto de transformar processos manuais em soluções organizadas, práticas e co
 ### 📌 Últimos projetos
 
 - 🔗 **[MyStock](https://github.com/MarcusGomesp/StockFlow.Api-Project)** — API integrada a um painel web para gerenciamento de ativos de TI. Importação de planilhas Excel/CSV, sincronização sem duplicatas e histórico de alterações.
-- 🔗 **Lumi** — Projeto acadêmico de RH com IA: API REST que avalia currículos automaticamente de acordo com a compatibilidade das skills exigidas pela vaga (cadastro/login, envio de currículos em PDF/Word/DOC, avaliação por IA).
+- 🔗 **[Lumi](https://github.com/MarcusGomesp/ProjetoFaculLumi)** — Projeto acadêmico de RH com IA: API REST que avalia currículos automaticamente de acordo com a compatibilidade das skills exigidas pela vaga (cadastro/login, envio de currículos em PDF/Word/DOC, avaliação por IA).
 - 🔗 **[ProjetoWebApiCadastro](https://github.com/MarcusGomesp/ProjetoWebApiCadastro)** — Web API com operações CRUD sobre um recurso específico, com validação de usuários por tokens de autenticação.
 - 🔗 **[CodeStudy](https://github.com/KauanG-bot/Programming-Students-Article)**
 
